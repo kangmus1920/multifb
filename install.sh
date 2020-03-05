@@ -29,4 +29,4 @@ pip install --upgrade pip
 pkg update && pkg upgrade
 echo "\033[032m Installing Selesai\033[037m...."
 sleep 3
-python2 tod.py
+python multidarkfb.py
